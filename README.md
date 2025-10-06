@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 
-A console-based Bank Management System in Python that allows users to create and manage bank accounts, issue credit cards, handle deposits and withdrawals, and maintain account information. This project demonstrates **data management, Python programming, and user interaction** skills.
+A console-based Bank Management System in Python that allows users to create and manage bank accounts, issue credit cards, handle deposits and withdrawals, and maintain account information. This project demonstrates data management, Python programming, and user interaction skills.
 
 # Features
 
@@ -29,4 +29,4 @@ A console-based Bank Management System in Python that allows users to create and
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/<your-username>/bank-management-system.git
+git clone https://github.com/nairsmeenakshy/bank-management-system.git
