@@ -13,8 +13,6 @@ A console-based Bank Management System in Python that allows users to create and
 - Check account balance
 - Update account holder information
 - Close accounts securely
-- Interactive and user-friendly console interface
-
 
 # Technologies Used
 
